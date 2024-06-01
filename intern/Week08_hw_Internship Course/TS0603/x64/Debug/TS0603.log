@@ -1,0 +1,3 @@
+﻿  NumberGame.cpp
+C:\Users\13058\Documents\OOP\Week08_hw_Internship Course\TS0603\NumberGame.cpp(57,3): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0603.vcxproj -> C:\Users\13058\Documents\OOP\Week08_hw_Internship Course\x64\Debug\TS0603.exe

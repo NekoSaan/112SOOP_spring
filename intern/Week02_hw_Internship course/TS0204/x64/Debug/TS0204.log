@@ -1,0 +1,12 @@
+﻿  Print Standard Format.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(32,19): error C2064: 詞彙不等於使用 2 引數的函式
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(31): message : 請參考正在進行編譯的函式 樣板 具現化 'const _Ty &std::max<unsigned __int64,unsigned __int64>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'
+          with
+          [
+              _Ty=unsigned __int64,
+              _Pr=unsigned __int64
+          ]
+C:\Users\13058\Documents\OOP\CS1010302W02\TS0204\Print Standard Format.cpp(36,75): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\13058\Documents\OOP\CS1010302W02\TS0204\Print Standard Format.cpp(38,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\13058\Documents\OOP\CS1010302W02\TS0204\Print Standard Format.cpp(45,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\13058\Documents\OOP\CS1010302W02\TS0204\Print Standard Format.cpp(52,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
